@@ -1,0 +1,9 @@
+# Compiled files — yeh locally generate hoti hain
+target/
+
+# IDE files
+.idea/
+.settings/
+.classpath
+.project
+*.iml
