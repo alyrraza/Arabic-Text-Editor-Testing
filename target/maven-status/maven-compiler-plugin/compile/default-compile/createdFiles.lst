@@ -1,3 +1,4 @@
+dal\PaginationDAO.class
 dto\Documents.class
 dto\Pages.class
 bll\SearchWord.class
