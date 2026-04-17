@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: business.SearchWordTest
 -------------------------------------------------------------------------------
-Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.969 s -- in business.SearchWordTest
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.908 s -- in business.SearchWordTest

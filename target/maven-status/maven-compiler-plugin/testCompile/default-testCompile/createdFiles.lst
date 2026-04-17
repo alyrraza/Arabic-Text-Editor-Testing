@@ -1,3 +1,4 @@
-data\HashCalculatorTest.class
+data\DatabaseConnectionTest.class
 data\PaginationDAOTest.class
+data\HashCalculatorTest.class
 business\SearchWordTest.class

@@ -1,5 +1,6 @@
 dal\PaginationDAO.class
 dto\Documents.class
 dto\Pages.class
+dal\DatabaseConnection.class
 dal\HashCalculator.class
 bll\SearchWord.class
